@@ -12,6 +12,6 @@ The live and working verion of this app can be found on the below link.
 https://ems-htuwar.herokuapp.com
 
 Below are the credentials to login.(THIS APP IS CASE SENSITIVE)
-\n\n
+
 username: admin
 password: admin
