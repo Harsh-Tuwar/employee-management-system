@@ -1,5 +1,5 @@
 # ems-htuwar
-A CRM system which uses Node and Express as a backend. It uses Mongo DB to store user's data such as name, email and 
+A CMS system which uses Node and Express as a backend. It uses Mongo DB to store user's data such as name, email and 
 password(in encrypted type). It uses PostgreSQL to store the department and employee data such as name, number, full time or 
 part time and many more. 
 Front end is developed with the help of JS, HTML, CSS, jQuery and Bootstrap.
